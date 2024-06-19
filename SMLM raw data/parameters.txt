@@ -1,0 +1,11 @@
+NA : 1.43
+refractive indices :
+	sample medium : 1.335
+	converslip : 1.516
+	immersion  oil : 1.516
+wavelength : 680 nm
+pixel size at sample plane :
+	x : 127 nm
+	y : 116 nm
+camera gain : 0.05
+camera offset : 398.6
